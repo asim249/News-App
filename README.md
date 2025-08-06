@@ -50,7 +50,8 @@ Here is a short demo of the app in action:
 
 ---
 
-🧑‍💻 Developer
+## 🧑‍💻 Developer
+
 Developed by Asim Mir (asim249)
 
 
