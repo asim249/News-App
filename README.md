@@ -50,14 +50,6 @@ Here is a short demo of the app in action:
 
 ---
 
-## 🔐 Environment Setup
-
-Before running the app, create a `.env` file in the root directory and add your News API key:
-
-```env
-REACT_APP_NEWS_API_KEY=your_api_key_here
-
-
 🧑‍💻 Developer
 Developed by Asim Mir
 GitHub Profile → asim249
