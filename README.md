@@ -51,8 +51,7 @@ Here is a short demo of the app in action:
 ---
 
 🧑‍💻 Developer
-Developed by Asim Mir
-GitHub Profile → asim249
+Developed by Asim Mir (asim249)
 
 
 
