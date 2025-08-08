@@ -17,7 +17,7 @@ const News = (props) =>  {
     }
  const updateNews = async() => {
     props.setProgress(0);
-    const apiKey = `YOUR_API_KEY`;
+    const apiKey = `59cdc6b7cf7744e2abd153d0857673c9`;
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&page=${page+1}&pageSize=${props.pageSize}&category=${props.category}&apiKey=${apiKey}`;
 
     setLoading(true)
@@ -47,7 +47,7 @@ const News = (props) =>  {
   //   updateNews()
   // }
   const fetchMoreData = async () => {
-      const apiKey = `YOUR_API_KEY`;
+      const apiKey = `59cdc6b7cf7744e2abd153d0857673c9`;
       const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&page=${page}&pageSize=${props.pageSize}&category=${props.category}&apiKey=${apiKey}`;
       setPage(page+1)
       let data = await fetch(url);
