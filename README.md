@@ -1,6 +1,6 @@
 # 📰 React News App
 
-![React](https://img.shields.io/badge/React-18-blue)
+![React](https://img.shields.io/badge/React-16-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![SPA](https://img.shields.io/badge/SPA-Single%20Page%20Application-green)
 ![News API](https://img.shields.io/badge/API-NewsAPI.org-orange)
